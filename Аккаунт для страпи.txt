@@ -1,0 +1,3 @@
+Логин: admin@admin.com
+email.com: admin@admin.com
+password: Admin01234
